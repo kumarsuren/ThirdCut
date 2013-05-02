@@ -15,7 +15,7 @@
 </head>
 <body>
 <h1>
-	Welcome to Science Lad !  
+	Welcome to Science Lad !   no no it is Pad !!!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
