@@ -6,6 +6,7 @@
 	<style>
 	.box1{
 		width:500px;
+		height:500px;
 		border:1px solid blue;
 	}
 	
