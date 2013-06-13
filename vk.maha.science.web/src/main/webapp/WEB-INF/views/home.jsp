@@ -42,11 +42,12 @@
 </head>
 <body>
 <h1>
-	Welcome to Science Lad !  
+	Welcome to Science Lad !   no no it is Pad !!!
 </h1>
 
 <P>  The time on the server is ${serverTime}.<i class="icon-bell icon-spin"></i> </P>
 
+<<<<<<< HEAD
 <div class="box1">Introduction here.....
 
 <i class="icon-star icon-spin"></i>
@@ -258,5 +259,11 @@
 				}
 			})
 		</script>
+=======
+<div class="box1">Introduction here.....</div>
+
+<div class="box1">Description here.....</div>
+
+>>>>>>> branch 'master' of https://github.com/kumarsuren/ThirdCut.git
 </body>
 </html>
