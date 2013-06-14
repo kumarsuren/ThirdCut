@@ -35,7 +35,7 @@
 	</style>
 	
 </head>
-<body>
+<body class="skin_1">
 	<div class="navbar navbar-inverse">
 			<div class="navbar-inner">
 				<div class="container-fluid">
